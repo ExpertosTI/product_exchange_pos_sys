@@ -1,0 +1,42 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* product_exchange_pos_sys
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 12:00+0000\n"
+"PO-Revision-Date: 2024-01-01 12:00+0000\n"
+"Last-Translator: Adderly Marte <adderlymarte@renace.tech>\n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. module: product_exchange_pos_sys
+#: model:ir.model.fields,field_description:product_exchange_pos_sys.field_pos_order__exchange
+msgid "Exchange"
+msgstr "Intercambio"
+
+#. module: product_exchange_pos_sys
+#: model:ir.model.fields,help:product_exchange_pos_sys.field_pos_order__exchange
+msgid "Indicates if this order line contains exchanged products."
+msgstr "Indica si esta línea de pedido contiene productos intercambiados."
+
+#. module: product_exchange_pos_sys
+#: model:ir.model,name:product_exchange_pos_sys.model_pos_order
+msgid "Point of Sale Orders"
+msgstr "Pedidos de Punto de Venta"
+
+#. module: product_exchange_pos_sys
+#: model:ir.model,name:product_exchange_pos_sys.model_pos_order_line
+msgid "Point of Sale Order Lines"
+msgstr "Líneas de Pedido de Punto de Venta"
+
+#. module: product_exchange_pos_sys
+#: model:ir.model,name:product_exchange_pos_sys.model_pos_session
+msgid "Point of Sale Session"
+msgstr "Sesión de Punto de Venta"
